@@ -1,3 +1,4 @@
+[React tip calculator.pdf](https://github.com/kapilharode/Tips_calculator/files/6069634/React.tip.calculator.pdf)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
